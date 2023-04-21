@@ -2,15 +2,15 @@
 
 ### Usage
 
-![image-20230421091318854](E:\我的Markdown笔记\image\image-20230421091318854.png)
+![image](https://user-images.githubusercontent.com/56108982/233518360-f330e71e-5b77-4367-83d8-0e0ce2d10c37.png)
 
 点击学生请假，进入请假页面
 
-![image-20230421091342348](E:\我的Markdown笔记\image\image-20230421091342348.png)
+![image](https://user-images.githubusercontent.com/56108982/233518378-8f541853-7c4c-4a1b-a532-df15d2e0910a.png)
 
 点击绿色加号，进行假条记录生成
 
-![image-20230421091507525](E:\我的Markdown笔记\image\image-20230421091507525.png)
+![image](https://user-images.githubusercontent.com/56108982/233518394-e38d3b64-30d7-404a-a51d-15e243e7d1e8.png)
 
 ## Build
 
